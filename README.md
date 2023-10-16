@@ -1,6 +1,6 @@
 # SchoolDump
 
-## O Que é?
+## O que é?
 
 Basicamente o repositório Schooldump são todas as atividades que fiz no técnico de desinvolvimento de sistemas do Senai SJ.
 
